@@ -1,6 +1,3 @@
-
-![](https://giphy.com/gifs/fury-kung-hackerman-QbumCX9HFFDQA)
-
 ![](https://komarev.com/ghpvc/?username=mrneuenschwander&color=red&style=for-the-badge&label=VISITORS)
 
 Currently a coding student at the University of Utah, learning all kinds of thing about data analytics. I have a penchant for report writing and data aggregation in general: the easier to read and present, the better.
