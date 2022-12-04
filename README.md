@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?mrneuenschwander=mrneuenschwander&color=green)
+Currently a coding student at the University of Utah, learning all kinds of thing about data analytics. I have a penchant for report writing and data aggregation in general: the easier to read and present, the better.
+
+![](https://komarev.com/ghpvc/?username=mrneuenschwander&color=red&style=for-the-badge&label=VISITORS)
 <!--
 **mrneuenschwander/mrneuenschwander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
