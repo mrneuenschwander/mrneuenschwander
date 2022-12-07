@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=mrneuenschwander&color=red&style=for-the-badge&label=VISITORS)
+![](https://komarev.com/ghpvc/?username=mrneuenschwander&color=red&style=for-the-badge&label=VISITS+TO+THIS+PAGE)
 
 Currently a coding student at the University of Utah, learning all kinds of things about data analysis. I have a penchant for report writing and data aggregation in general: the easier to read and present, the better.
 <!--
